@@ -1,2 +1,2 @@
-# sesion7-tarea-grupo
+# Práctica final evaluación
 Tarea grupo 7
